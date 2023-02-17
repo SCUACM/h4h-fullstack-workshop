@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "title": "ACM and ACM-W President and Vice President",
+    "members": [
+        {
+            "name": "Will Cockrum",
+            "role": "ACM President",
+            "gradYear": 2023
+        },
+        {
+            "name": "Jordan Mosakowski",
+            "role": "ACM Vice President",
+            "gradYear": 2024
+        },
+        {
+            "name": "Ananya Pagadala",
+            "role": "ACM-W President",
+            "gradYear": 2023
+        }
+    ]
+}
